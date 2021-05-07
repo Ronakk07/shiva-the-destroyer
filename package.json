@@ -1,0 +1,27 @@
+{
+    "name": "shiva-the-destroyer",
+    "displayName": "Shiva The Destroyer",
+    "description": "Shiva Theme",
+    "publisher": "ShivaTheDestroyer",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "shiva the destroyer"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Shiva The Destroyer",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Shiva The Destroyer-color-theme.json"
+            }
+        ]
+    }
+}
