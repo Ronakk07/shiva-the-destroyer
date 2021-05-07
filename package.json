@@ -1,15 +1,15 @@
 {
     "name": "shiva-the-destroyer",
     "displayName": "Shiva The Destroyer",
+    "version": "0.0.1",
     "description": "Shiva Theme",
     "publisher": "ShivaTheDestroyer",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.56.0"
-    },
     "repository": {
         "type": "git",
         "url": "https://github.com/Ronakk07/shiva-the-destroyer"
+    },
+    "engines": {
+        "vscode": "^1.56.0"
     },
     "categories": [
         "Themes"
