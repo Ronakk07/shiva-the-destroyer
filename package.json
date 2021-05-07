@@ -7,6 +7,10 @@
     "engines": {
         "vscode": "^1.56.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ronakk07/shiva-the-destroyer"
+    },
     "categories": [
         "Themes"
     ],
