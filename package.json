@@ -9,7 +9,7 @@
         "url": "https://github.com/Ronakk07/shiva-the-destroyer"
     },
     "engines": {
-        "vscode": "^1.56.0"
+        "vscode": "^1.52.0"
     },
     "categories": [
         "Themes"
