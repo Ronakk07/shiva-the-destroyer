@@ -339,7 +339,6 @@
         "foreground": "#6d6f7c"
       }
     },
-    // HTML
     {
       "scope": [
         "text.html.derivative"
