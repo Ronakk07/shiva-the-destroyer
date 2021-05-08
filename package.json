@@ -3,10 +3,14 @@
     "displayName": "Shiva The Destroyer",
     "version": "1.0.0",
     "description": "Shiva Theme",
+    "icon": "theme.png",
     "publisher": "ShivaTheDestroyer",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Ronakk07/shiva-the-destroyer"
+        "url": "https://github.com/Ronakk07/shiva-the-destroyer.git"
+    },
+    "author": {
+        "name": "Ronak Khangaonkar"
     },
     "engines": {
         "vscode": "^1.52.0"
